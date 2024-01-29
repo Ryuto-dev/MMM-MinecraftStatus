@@ -1,6 +1,6 @@
 {
-  "players": "選手",
-  "latency": "レイテンシ",
+  "players": "プレイヤー数",
+  "latency": "通信遅延",
   "error": "エラー",
   "no_audio_support": "オーディオサポートなし"
 }
